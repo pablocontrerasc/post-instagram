@@ -1,0 +1,58 @@
+
+body {
+	background: black;
+}
+.post{
+    background: white;
+	margin: auto;
+	width: 400px;
+	height: auto;
+}
+.icon{
+    margin-top: 5px ;
+    padding: 10px;
+}
+.header{
+    display: flex;
+}
+
+.titulo{
+    width: 100%;
+	padding: 5px;
+}
+
+.titulo h4{
+    margin: 10px 0 10px 0;
+}
+
+.nombre{
+    font-size: 15px;
+}
+
+.ellipsis{
+    margin-top: 15px;
+    margin-right: 10px;
+}
+
+.posteo img{
+    width: 100%;
+}
+
+.post-icons{
+   display: flex;
+   margin-top: 10px;
+   margin-left: 10px;
+  
+}
+
+.group-icon {
+    width: 100%;
+}
+.guardar {
+   margin-right: 10px;
+}
+
+.text-posteo{
+ margin: 10px;
+ 
+}
